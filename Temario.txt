@@ -1,0 +1,13 @@
+NOTAS DE CLASE JAVAFUNCIONES.JS
+
+	declarar funciones
+	llamar funciones
+
+	Hoisting: anticipa una funcion
+
+	Scope: alcance de una variable
+
+	Tipos de funciones
+		Tradicionales
+		Anonimas: no tienen nombre
+		Flecha, (a,b) => a - b
